@@ -1,6 +1,6 @@
 1.	Introduction
 The Centralized Emergency Response System is a connected plaform which deals with civil emergencies in a timely fashion. The platform provides as an connection point for emergencies such as police, fire brigade and paramedics.  This system provides an all-in-one solution for these emergencies. Emergencies are registered, processed and tracked according to severity. This project highlights the importance of a structured approach to emergency response. 
-2.	Objective
+3.	Objective
 The main goal of this project is creating a system that can efficiently manage emergencies by:
 •	Registering Emergencies: Capturing details such as type, severity, description, and location.
 •	Processing Emergencies: Resolving incidents based on severity, ensuring critical cases are handled first.
@@ -8,7 +8,7 @@ The main goal of this project is creating a system that can efficiently manage e
 •	Tracking Resolved Cases: Maintaining a history of resolved emergencies for accountability and analysis.
 •	Providing Statistics: Offering insights into reported, resolved, and pending emergencies.
 The project aims to simulate a real-world use case where emergency response systems are critical for saving lives and resources.
-3.	Functionality
+4.	Functionality
 The Emergency Response System offers the following key features:
 1.	Register New Emergency:
 o	Adds new emergencies with details such as type, severity, description, and location.
